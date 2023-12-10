@@ -1,4 +1,4 @@
-# aoc2022apl
+# aoc2023apl
 Advent of Code 2023 solutions in Dyalog APL
 
 Tested on Linux with:
