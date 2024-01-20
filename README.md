@@ -5,9 +5,8 @@ Tested on Linux with:
 ```
 dyalog -script < pN.dyalog # Dyalog version 17.1 or earlier
 dyalog -script pN.dyalog # Dyalog version 18.0
+dyalogscript pN.dyalog # Dyalog version 18.2 or later
 ```
-
-Some solutions require Dyalog APL version 18.0.
 
 See also:
 * My [solutions for 2015](https://github.com/jayfoad/aoc2015apl).
