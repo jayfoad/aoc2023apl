@@ -4,10 +4,10 @@ Advent of Code 2023 solutions in Dyalog APL
 Tested on Linux with:
 ```
 dyalog -script < pN.dyalog # Dyalog version 17.1 or earlier
-dyalog -script pN.dyalog # Dyalog version 18.0 or later
+dyalog -script pN.dyalog # Dyalog version 18.0
 ```
 
-Some solutions require Dyalog APL version 18.0 or later.
+Some solutions require Dyalog APL version 18.0.
 
 See also:
 * My [solutions for 2015](https://github.com/jayfoad/aoc2015apl).
